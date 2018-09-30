@@ -4,11 +4,10 @@
 Node.js and ES6 are used for the code
 
 ## Architecture
-- Main functionality is split into following modules in <b>lib/</b>
-<br>
-[Module for getting geo coordinates from images](./lib/loc_from_image.js) <br>
-[Module for getting time and drone position from videos](./lib/pos_from_video.js) <br>
-[Module for finding distance between two geo coordinates](./lib/find_distance.js)
+- Main functionality is split into three modules in <b>lib/</b>
+- [Module for getting geo coordinates from images](./lib/loc_from_image.js) <br>
+- [Module for getting time and drone position from videos](./lib/pos_from_video.js) <br>
+- [Module for finding distance between two geo coordinates](./lib/find_distance.js)
 - Main starting point file [index.js](./index.js)
 - The code is written asynchronously to save time by doing tasks like getting location from images or getting info from video and assets.csv while the user inputs data.
 - Supports multiple video files
