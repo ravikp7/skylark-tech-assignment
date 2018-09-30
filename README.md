@@ -1,5 +1,5 @@
 # Skylark Drones Technical Assignment
-
+## Recommended Node.js version: 8 LTS
 ### The problem statement is [here](./problem-statement.txt)
 Node.js and ES6 are used for the code
 
