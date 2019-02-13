@@ -24,7 +24,7 @@ For the video, rather than sending the actual video, I'm just going to send you
 the SRT file. That's basically like a subtitle file, that has the coordinates of
 the drone at all the different times in the video.
 
-What I want from you:
+What I want from you
 For every second in the video, I want a list of all the images that lie within 35
 metres of the drone position. Give it to me in Excel format. First column, time
 in seconds. Second column, all the images that lie within 35m. You coders all seem
